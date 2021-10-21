@@ -1,0 +1,8 @@
+@use '../../styles/assets' as *;
+
+.navbar {
+    display: flex;
+    justify-content: flex-start;
+    background-color: $primary;
+    color: $white;
+}
